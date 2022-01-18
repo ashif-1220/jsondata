@@ -1,0 +1,29 @@
+[
+    {
+        "name":"Ashif Ahmed",
+        "age":"21",
+        "height":"172",
+        "gender":"male"
+    },
+    
+    {
+        "name":"Aman Gupta",
+        "age":"21",
+        "height":"176",
+        "gender":"male"
+    },
+    
+    {
+        "name":"Kareena",
+        "age":"23",
+        "height":"150",
+        "gender":"female"
+    },
+    
+    {
+        "name":"Mallick",
+        "age":"21",
+        "height":"170",
+        "gender":"male"
+    }
+]
